@@ -20,3 +20,13 @@
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   color: blue;
 }
+
+.button{
+  size: 400px;
+  color: black;
+  box-sizing: 20px 20px 20px 20px;
+  background-color: blue;
+  padding: 30px 40px;
+  border-radius: 5px;
+  cursor: pointer;
+}

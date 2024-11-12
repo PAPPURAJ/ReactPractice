@@ -1,4 +1,4 @@
-function Food() {
+export default function Foods() {
     const items = [];
     
     for (let i = 0; i < 10; i++) {
@@ -12,4 +12,3 @@ function Food() {
     );
 }
 
-export default Food;
