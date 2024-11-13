@@ -1,6 +1,8 @@
 
 import Button from './Button';
 import Card from './Card';
+import MyClock from './Clock';
+import DyList from './DynLIst';
 import Keya from './Food';
 import Footers from './Footer';
 import Header from './Header';
@@ -29,7 +31,9 @@ function App() {
     
    // <Prop name="Keya" roll={345} details={myData}/>
     //<Button/>
-    <State/>
+  //  <State/>
+  //<DyList/>
+  <MyClock/>
     
   )
 }
